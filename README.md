@@ -37,17 +37,3 @@ Welcome to the official website of **EnSeCrowd Intelligence Club** at ENSA Tangi
 │       ├── ElkanfoudSoumaya.png
 │       └── lazzarSaiida.png
 ```
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML, CSS, and JavaScript
-
-### Installation
-
-1. **Clone or download** this repository
-
-2. **Place images** in the `assets/images/` folder:
-   - Ensure all team member photos
