@@ -549,11 +549,25 @@ section {
     font-size: 1.1rem;
 }
 
+/* President Grid - Centered Single Card */
+.board-grid-president {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.board-grid-president .board-card {
+    max-width: 320px;
+    width: 100%;
+}
+
+/* Regular Board Grid - 4 cards per row */
 .board-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
-    margin-top: 3rem;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 
 .board-card {
@@ -866,6 +880,10 @@ footer {
 
     .board-grid {
         grid-template-columns: 1fr;
+    }
+
+    .board-grid-president .board-card {
+        max-width: 100%;
     }
 
     .events-grid {
