@@ -1,7 +1,5 @@
 # 🔐 EnSeCrowd - Cybersecurity Intelligence Club
 
-![EnSeCrowd Logo](assets/images/logo.png)
-
 Welcome to the official website of **EnSeCrowd Intelligence Club** at ENSA Tangier. We are a team of passionate engineering students dedicated to cybersecurity and cyber intelligence, working together to make the digital world safer.
 
 ## 🌟 Features
@@ -36,4 +34,5 @@ Welcome to the official website of **EnSeCrowd Intelligence Club** at ENSA Tangi
 │       ├── ElOuahabiWiame.png
 │       ├── ElkanfoudSoumaya.png
 │       └── lazzarSaiida.png
+
 ```
